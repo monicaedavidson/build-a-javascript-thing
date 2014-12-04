@@ -5,32 +5,28 @@
     "caption": "Run The Jewels - Run The Jewels 2",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras interdum tempus nulla a tempor. Nulla porttitor diam sed ligula sollicitudin fermentum. Ut sit amet tristique nisl. Donec in laoreet lorem. Integer volutpat lacus sem. In eget laoreet tortor. In auctor tortor ipsum, non euismod nisl dignissim vel. Sed non dolor.",
     "youTubeURL": "https://www.youtube.com/watch?v=Hd1dTrFdZkA"
-  }
-
+  },
   {
     "imageURL": "http://cdn4.pitchfork.com/news/55815/fc741210.jpg",
     "imageAlt": "Black Moon Spell" ,
     "caption": "King Tuff - Black Moon Spell",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras interdum tempus nulla a tempor. Nulla porttitor diam sed ligula sollicitudin fermentum. Ut sit amet tristique nisl. Donec in laoreet lorem. Integer volutpat lacus sem. In eget laoreet tortor. In auctor tortor ipsum, non euismod nisl dignissim vel. Sed non dolor.",
     "youTubeURL": "https://www.youtube.com/watch?v=9ufWAU8RjC8"
-  }
-
+  },
   {
     "imageURL": "http://www.aux.tv/wp-content/uploads/2014/04/freddie-gibbs-madlib-pinata.jpg",
     "imageAlt": "Pinata",
     "caption": "Freddie Gibbs &amp; Madlib - Pinata",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras interdum tempus nulla a tempor. Nulla porttitor diam sed ligula sollicitudin fermentum. Ut sit amet tristique nisl. Donec in laoreet lorem. Integer volutpat lacus sem. In eget laoreet tortor. In auctor tortor ipsum, non euismod nisl dignissim vel. Sed non dolor.",
     "youTubeURL": "https://www.youtube.com/watch?v=98nUZ938oiU"
-  }
-
+  },
   {
     "imageURL": "http://cdn4.pitchfork.com/news/53290/1e766e86.jpg",
     "imageAlt": "Present Tense",
     "caption": "Wild Beasts - Present Tense",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras interdum tempus nulla a tempor. Nulla porttitor diam sed ligula sollicitudin fermentum. Ut sit amet tristique nisl. Donec in laoreet lorem. Integer volutpat lacus sem. In eget laoreet tortor. In auctor tortor ipsum, non euismod nisl dignissim vel. Sed non dolor.",
     "youTubeURL": "https://www.youtube.com/watch?v=9IIbbFIQTKI&list=PLaXEUnRhowO5T2vMgPCrH0XjBnyIeyml2"
-  }
-
+  },
   {
     "imageURL": "http://www.rockleak.com/uploads/posts/2014-07/1406054962_hippiesabotage-sunny-cover.jpg",
     "imageAlt": "Sunny",
@@ -38,5 +34,4 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras interdum tempus nulla a tempor. Nulla porttitor diam sed ligula sollicitudin fermentum. Ut sit amet tristique nisl. Donec in laoreet lorem. Integer volutpat lacus sem. In eget laoreet tortor. In auctor tortor ipsum, non euismod nisl dignissim vel. Sed non dolor.",
     "youTubeURL": "https://www.youtube.com/watch?v=zfnyoKu7ptw&list=PLQ83U7ao7jjBC1A5WNEdxxhEl8pmdbGXN"
   }
-
 ]
