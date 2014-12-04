@@ -30,4 +30,3 @@ window.onload = function() {
     album5.style.display = 'block';
   }
 };
-
